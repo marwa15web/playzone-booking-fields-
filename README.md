@@ -66,5 +66,5 @@ html/
 
 ## Project by
 
-Hajji Marwa – Business Computing student & web enthusiast 💻
+Hajji Marwa – Business Computing student & web enthusiast 
 
